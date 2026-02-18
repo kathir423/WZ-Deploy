@@ -6,6 +6,7 @@ anytree
 apscheduler
 aioaria2
 aioqbt
+imdbinfo
 cinemagoer
 cloudscraper
 dnspython
