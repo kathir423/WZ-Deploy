@@ -22,6 +22,7 @@ jinja2
 lxml
 motor
 natsort
+openai
 par2cmdline-turbo
 pillow
 psutil
