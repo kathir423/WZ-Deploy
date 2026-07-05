@@ -1,4 +1,4 @@
-FROM starleech/wzmlx:v3hk
+FROM starleech/star:v3hk
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
