@@ -1,4 +1,4 @@
-FROM starleech/star:v4
+FROM starleech/wzmlx:v3
 
 WORKDIR /usr/src/app
 
